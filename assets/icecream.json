@@ -1,0 +1,43 @@
+{
+  "icecreams": [
+    {
+      "flavor": "Vanilla",
+      "description": "classic and creamy",
+      "topping": ["Chocolate sauce", "Sprinkle sauce"],
+      "price": "9.98",
+      "image": "https://plus.unsplash.com/premium_photo-1695868328502-81c9e0468b74?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80",
+      "ingredients": [
+        {"name": "Vanilla Extract", "quantity": "2 tsp"},
+        {"name": "Sugar", "quantity": "1 cup"},
+        {"name": "Heavy Cream", "quantity": "2 cups"},
+        {"name": "Milk", "quantity": "1 cup"}
+      ]
+    },
+    {
+      "flavor": "Chocolate",
+      "description": "rich and indulgent",
+      "topping": ["Chocolate chips", "Whipped cream"],
+      "price": "10.99",
+      "image": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80",
+      "ingredients": [
+        {"name": "Cocoa Powder", "quantity": "1/2 cup"},
+        {"name": "Sugar", "quantity": "3/4 cup"},
+        {"name": "Heavy Cream", "quantity": "2 cups"},
+        {"name": "Milk", "quantity": "1 cup"}
+      ]
+    },
+    {
+      "flavor": "Strawberry",
+      "description": "sweet and fruity",
+      "topping": ["Fresh strawberries", "Strawberry syrup"],
+      "price": "8.99",
+      "image": "https://images.unsplash.com/photo-1505252929202-c4f39cda4d49?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80",
+      "ingredients": [
+        {"name": "Fresh Strawberries", "quantity": "1 cup, chopped"},
+        {"name": "Sugar", "quantity": "1/2 cup"},
+        {"name": "Heavy Cream", "quantity": "2 cups"},
+        {"name": "Milk", "quantity": "1 cup"}
+      ]
+    }
+  ]
+}
